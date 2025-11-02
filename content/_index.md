@@ -21,10 +21,10 @@ sections:
           </div>
 
           <div id="lab-slides" style="flex: 1; position: relative; overflow: hidden; max-width: 600px;">
-            <img src="https://github.com/DiaoLab/DiaoLab.github.io/media/lab4.jpg" style="width:100%; display:block;">
-            <img src="https://github.com/DiaoLab/DiaoLab.github.io/media/lab3.jpg" style="width:100%; display:none;">
-            <img src="https://github.com/DiaoLab/DiaoLab.github.io/media/lab2.jpg" style="width:100%; display:none;">
-            <img src="https://github.com/DiaoLab/DiaoLab.github.io/media/lab1.jpg" style="width:100%; display:none;">
+            <img src="https://github.com/DiaoLab/DiaoLab.github.io/tree/main/assets/media/lab4.jpg" style="width:100%; display:block;">
+            <img src="https://github.com/DiaoLab/DiaoLab.github.io/tree/main/assets/media/lab3.jpg" style="width:100%; display:none;">
+            <img src="https://github.com/DiaoLab/DiaoLab.github.io/tree/main/assets/media/lab2.jpg" style="width:100%; display:none;">
+            <img src="https://github.com/DiaoLab/DiaoLab.github.io/tree/main/assets/media/lab1.jpg" style="width:100%; display:none;">
           </div>
           
         </section>
@@ -57,7 +57,7 @@ sections:
       title: <h1 style="text-align:center;">Research</h1>
       text: |
         
-        <img src="https://github.com/DiaoLab/DiaoLab.github.io/media/research.jpg" alt="Research" style="float:right; margin: 0 0 15px 20px; width:40%; border-radius:12px; opacity:0.85;">
+        <img src="https://github.com/DiaoLab/DiaoLab.github.io/tree/main/assets/media/research.jpg" alt="Research" style="float:right; margin: 0 0 15px 20px; width:40%; border-radius:12px; opacity:0.85;">
         
         Our research program, **'Regeneration Genomics'**, is dedicated to unraveling the gene regulatory mechanisms that drive cell fate changes in development and regeneration. In our quest to decode the fundamental principles of gene regulation, I have been developing several cutting-edge genomic tools, such as **CREST-seq**, **CARGO-BioID**, **HiCAR**, and **scHiCAR** that benefit both our own research and the broader scientific community.
         
