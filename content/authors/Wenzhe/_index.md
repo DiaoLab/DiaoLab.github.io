@@ -70,4 +70,7 @@ user_groups:
   - Lab Member
 ---
 
+<div style="text-align: justify; line-height: 1.6; font-size: 1.1rem;">
+Wenzhe joined our lab as a postdoctoral researcher in January 2023. His research focuses on uncovering the molecular mechanisms that regulate skeletal muscle regeneration. Specifically, he studies how muscle stem cells maintain their quiescence and how their transition between quiescent and activated states is controlled at both morphological and molecular levels. He is also interested in understanding the irreversible loss of quiescence in aged muscle stem cells and how chronic muscle injury in patients with Peripheral Artery Disease (PAD) and Chronic Limb-Threatening Ischemia (CLTI) leads to impaired muscle regeneration. His long-term goal is to elucidate the signaling and epigenetic pathways that underlie these processes, providing potential therapeutic strategies to restore muscle function in degenerative and ischemic diseases.
+</div>
 
