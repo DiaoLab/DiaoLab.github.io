@@ -27,10 +27,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests encompass gene regulation, epigenomics, and the mechanisms of regeneration and development.
 
-interests:
-  - Gene Regulation and Cell Fate Decisions
-  - Epigenomics and Functional Genomics
-  - Regeneration and Developmental Biology
+#interests:
+#  - Gene Regulation and Cell Fate Decisions
+#  - Epigenomics and Functional Genomics
+#  - Regeneration and Developmental Biology
 
 #education:
 #  courses:
@@ -86,3 +86,8 @@ My passion for this research was sparked during my PhD training with Dr. Zhenguo
   - Assistant Professor in Orthopaedic Surgery
   - Affiliate of the Duke Regeneration Center
   - Member of the Duke Cancer Institute
+
+### Interests
+  - Gene Regulation and Cell Fate Decisions
+  - Epigenomics and Functional Genomics
+  - Regeneration and Developmental Biology
