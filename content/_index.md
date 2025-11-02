@@ -89,7 +89,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./Publication/" cta_text="Publications →" %}}
+        {{% cta cta_link="Publication/" cta_text="Publications →" %}}
     design:
       columns: '1'
 
