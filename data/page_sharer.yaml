@@ -1,0 +1,53 @@
+buttons:
+  - id: email
+    enable: false
+  - id: twitter
+    enable: false
+  - id: facebook
+    enable: false
+  - id: linkedin
+    enable: false
+  - id: whatsapp
+    enable: false
+  - id: weibo
+    enable: false
+  - id: telegram
+    enable: false
+  - id: reddit
+    enable: false
+  - id: pinterest
+    enable: false
+  - id: tumblr
+    enable: false
+  - id: vk
+    enable: false
+  - id: discord
+    enable: false
+  - id: whatsapp
+    enable: false
+  - id: messenger
+    enable: false
+  - id: line
+    enable: false
+  - id: wechat
+    enable: false
+  - id: qq
+    enable: false
+  - id: kakaotalk
+    enable: false
+  - id: signal
+    enable: false
+  - id: skype
+    enable: false
+  - id: slack
+    enable: false
+  - id: email
+    enable: false
+  - id: sms
+    enable: false
+  - id: sms
+    enable: false
+  - id: sms
+    enable: false
+  - id: sms
+    enable: false
