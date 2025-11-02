@@ -21,10 +21,10 @@ sections:
           </div>
 
           <div id="lab-slides" style="flex: 1; position: relative; overflow: hidden; max-width: 600px;">
-            <img src="{{< relURL "/media/lab4.jpg" >}}" style="width:100%; display:block;">
-            <img src="{{< relURL "/media/lab3.jpg" >}}" style="width:100%; display:none;">
-            <img src="{{< relURL "/media/lab2.jpg" >}}" style="width:100%; display:none;">
-            <img src="{{< relURL "/media/lab1.jpg" >}}" style="width:100%; display:none;">
+            <img src="{{ (resources.Get "media/lab4.jpg").RelPermalink }}"" style="width:100%; display:block;">
+            <img src="{{ (resources.Get "media/lab3.jpg").RelPermalink }}"" style="width:100%; display:none;">
+            <img src="{{ (resources.Get "media/lab2.jpg").RelPermalink }}"" style="width:100%; display:none;">
+            <img src="{{ (resources.Get "media/lab1.jpg").RelPermalink }}"" style="width:100%; display:none;">
           </div>
           
         </section>
