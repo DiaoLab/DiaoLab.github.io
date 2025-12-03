@@ -17,11 +17,11 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate in MSTP/UPGG
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-  - name: Duke University
+  - name: MSTP/UPGG Program at Duke
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
