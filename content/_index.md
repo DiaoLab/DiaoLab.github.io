@@ -97,7 +97,7 @@ sections:
     content:
       title: 
       email: diaolab@duke.edu
-      phone: 919-684-8553
+      #phone: 919-684-8553
       address:
         street: 403 Sands Building
         city: Durham
