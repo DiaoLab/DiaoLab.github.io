@@ -21,7 +21,7 @@ role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-  - name: Cell and Molecular Biology Program at Duke
+  - name: CMB Program at Duke
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
