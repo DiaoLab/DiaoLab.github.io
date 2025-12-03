@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: PhD Candidate in MSTP/UPGG
 
 # Organizations/Affiliations
 organizations:
