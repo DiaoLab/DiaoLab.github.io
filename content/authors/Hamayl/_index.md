@@ -17,11 +17,11 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate in CMB
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-  - name: Duke University
+  - name: Cell and Molecular Biology Program at Duke
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
