@@ -12,40 +12,42 @@ sections:
         Complete List of 48 Publication: https://www.ncbi.nlm.nih.gov/myncbi/yarui.diao.1/bibliography/public/
         
         ## **I. Peer-reviewed publication as key contributor:**
+
+        **1.** Wei X\*, Xu Y\*, Yang D\*, Kim K, Yi L, Luo W, Lin X, Xiang Y, Williams AB, Wang X, Srivas S, Tan C, Zhang K, Li W, Li YE, Yue F, Huang J, Jung I\#, Diao Y\#. Ultra-high throughput tri-modal single-cell profiling of transcriptome, epigenome, and 3D genome in complex tissues with scHiCAR. **accepted by _Nature Biotechnology_**.
         
-        **1.** Sun T, Xu Y, Angel N, Meng Z, Varghese S, Diao Y. A Subset of Transposable Elements as Mechano-Response Enhancer Elements in Controlling Human Embryonic Stem Cell Fate. **_Nature Cell Biology_**. 2025 Oct;27(10):1785-1796
+        **2.** Sun T, Xu Y, Angel N, Meng Z, Varghese S, Diao Y. A Subset of Transposable Elements as Mechano-Response Enhancer Elements in Controlling Human Embryonic Stem Cell Fate. **_Nature Cell Biology_**. 2025 Oct;27(10):1785-1796
         
-        **2.** Dai Q, Wan C, Xu Y, Fei K, Olivere LA, Garrett B, Akers L, Peters D, Otto J, Kontos CD, Ji Z, Diao Y\#, Southerland KW\#. Vascular adhesion molecule 1+ fibro-adipogenic progenitors mark fatty infiltration in chronic limb-threatening ischemia. **_JVS-Vascular Science_**. 2025 Aug 05
+        **3.** Dai Q, Wan C, Xu Y, Fei K, Olivere LA, Garrett B, Akers L, Peters D, Otto J, Kontos CD, Ji Z, Diao Y\#, Southerland KW\#. Vascular adhesion molecule 1+ fibro-adipogenic progenitors mark fatty infiltration in chronic limb-threatening ischemia. **_JVS-Vascular Science_**. 2025 Aug 05
         
-        **3.** Southerland KW, Xu Y, Peters DT, Lin X, Wei X, Xiang Y, Fei K, Olivere LA, Morowitz JM, Otto J, Dai Q, Kontos CD, Diao Y. Skeletal muscle regeneration failure in ischemic-damaged limbs is associated with pro-inflammatory macrophages and premature differentiation of satellite cells. **_Genome Med_**. 2023 Nov 10;15(1):95. PMCID: PMC10636829
+        **4.** Southerland KW, Xu Y, Peters DT, Lin X, Wei X, Xiang Y, Fei K, Olivere LA, Morowitz JM, Otto J, Dai Q, Kontos CD, Diao Y. Skeletal muscle regeneration failure in ischemic-damaged limbs is associated with pro-inflammatory macrophages and premature differentiation of satellite cells. **_Genome Med_**. 2023 Nov 10;15(1):95. PMCID: PMC10636829
         
-        **4.** Wei X, Tran D, Diao Y. HiCAR: Analysis of Open Chromatin Associated Long-range Chromatin Interaction Using Low-Input Materials. **_Curr Protoc_**. 2023 Oct;3(10):e899. PMCID: PMC10575683
+        **5.** Wei X, Tran D, Diao Y. HiCAR: Analysis of Open Chromatin Associated Long-range Chromatin Interaction Using Low-Input Materials. **_Curr Protoc_**. 2023 Oct;3(10):e899. PMCID: PMC10575683
         
-        **5.** Okafor AE, Lin X, Situ C, Wei X, Xiang Y, Wei X, Wu Z, Diao Y. Single-cell chromatin accessibility profiling reveals a self-renewing muscle satellite cell state. **_J Cell Biol_**. 2023 Aug 7;222(8). PMCID: PMC10309185. 
+        **6.** Okafor AE, Lin X, Situ C, Wei X, Xiang Y, Wei X, Wu Z, Diao Y. Single-cell chromatin accessibility profiling reveals a self-renewing muscle satellite cell state. **_J Cell Biol_**. 2023 Aug 7;222(8). PMCID: PMC10309185. 
         
-        **6.** Sun T, Xu Y, Xiang Y, Ou J, Soderblom EJ, Diao Y. Crosstalk between RNA m6A and DNA methylation regulates transposable element chromatin activation and cell fate in human pluripotent stem cells. **_Nature Genetics_**. 2023 Aug;55(8):1324–1335. PMCID: PMC10766344. **_Spotlight by Molecular Cell_** (PMID: 39983671)
+        **7.** Sun T, Xu Y, Xiang Y, Ou J, Soderblom EJ, Diao Y. Crosstalk between RNA m6A and DNA methylation regulates transposable element chromatin activation and cell fate in human pluripotent stem cells. **_Nature Genetics_**. 2023 Aug;55(8):1324–1335. PMCID: PMC10766344. **_Spotlight by Molecular Cell_** (PMID: 39983671)
         
-        **7.** Wei X, Xiang Y, Peters DT, Marius C, Sun T, Shan R, Ou J, Lin X, Yue F, Li W, Southerland KW, Diao Y. HiCAR is a robust and sensitive method to analyze open-chromatin-associated genome organization. **_Molecular Cell_**. 2022 Mar 17;82(6):1225–1238.e6. PMCID: PMC8934281. **"_Best of Technology_ 2022" by _Molecular Cell_**, **Preview by _Cell Genomics_** (PMID: 36776526)
+        **8.** Wei X, Xiang Y, Peters DT, Marius C, Sun T, Shan R, Ou J, Lin X, Yue F, Li W, Southerland KW, Diao Y. HiCAR is a robust and sensitive method to analyze open-chromatin-associated genome organization. **_Molecular Cell_**. 2022 Mar 17;82(6):1225–1238.e6. PMCID: PMC8934281. **"_Best of Technology_ 2022" by _Molecular Cell_**, **Preview by _Cell Genomics_** (PMID: 36776526)
         
-        **8.** Li B, Chen PB, Diao Y. CRISPR-SE: a brute force search engine for CRISPR design. **_NAR Genom Bioinform_**. 2021 Mar;3(1):lqab013. PMCID: PMC7902234
+        **9.** Li B, Chen PB, Diao Y. CRISPR-SE: a brute force search engine for CRISPR design. **_NAR Genom Bioinform_**. 2021 Mar;3(1):lqab013. PMCID: PMC7902234
         
-        **9.** Chen X, Wan J, Yu B, Diao Y\#, Zhang W\#. PIP5K1α promotes myogenic differentiation via AKT activation and calcium release. **_Stem Cell Res Ther. 2018;9(1):33. PMCID: PMC5806439
+        **10.** Chen X, Wan J, Yu B, Diao Y\#, Zhang W\#. PIP5K1α promotes myogenic differentiation via AKT activation and calcium release. **_Stem Cell Res Ther. 2018;9(1):33. PMCID: PMC5806439
         
-        **10.** Jung I\*, Schmitt A\*, Diao Y\*, Lee AJ, Liu T, Yang D, Tan C, Eom J, Chan M, Chee S, Chiang Z, Kim C, Masliah E, Barr CL, Li B, Kuan S, Kim D, Ren B. A compendium of promoter-centered long-range chromatin interactions in the human genome. **_Nature Genet_**. 2019 Oct;51(10):1442–1449. PMCID: PMC6778519
+        **11.** Jung I\*, Schmitt A\*, Diao Y\*, Lee AJ, Liu T, Yang D, Tan C, Eom J, Chan M, Chee S, Chiang Z, Kim C, Masliah E, Barr CL, Li B, Kuan S, Kim D, Ren B. A compendium of promoter-centered long-range chromatin interactions in the human genome. **_Nature Genet_**. 2019 Oct;51(10):1442–1449. PMCID: PMC6778519
         
-        **11.** Diao Y, Fang R, Li B, Meng Z, Yu J, Qiu Y, Lin KC, Huang H, Liu T, Marina RJ, Jung I, Shen Y, Guan KL, Ren B. A tiling-deletion-based genetic screen for cis-regulatory element identification in mammalian cells. **_Nature Methods_**. 2017 Jun;14(6):629–635. PMCID: PMC5490986
+        **12.** Diao Y, Fang R, Li B, Meng Z, Yu J, Qiu Y, Lin KC, Huang H, Liu T, Marina RJ, Jung I, Shen Y, Guan KL, Ren B. A tiling-deletion-based genetic screen for cis-regulatory element identification in mammalian cells. **_Nature Methods_**. 2017 Jun;14(6):629–635. PMCID: PMC5490986
         
-        **12.** An Y\*, Wang G\*, Diao Y\*, Long Y, Fu X, Weng M, Zhou L, Sun K, Cheung TH, Ip NY, Sun H, Wang H, Wu Z. A Molecular Switch Regulating Cell Fate Choice between Muscle Progenitor Cells and Brown Adipocytes. **_Developmental Cell_**. 2017 May 22;41(4):382–391.e5. PMID: 28535373
+        **13.** An Y\*, Wang G\*, Diao Y\*, Long Y, Fu X, Weng M, Zhou L, Sun K, Cheung TH, Ip NY, Sun H, Wang H, Wu Z. A Molecular Switch Regulating Cell Fate Choice between Muscle Progenitor Cells and Brown Adipocytes. **_Developmental Cell_**. 2017 May 22;41(4):382–391.e5. PMID: 28535373
         
-        **13.** Diao Y\*, Li B, Meng Z, Jung I, Lee AY, Dixon J, Maliskova L, Guan KL, Shen Y\*,\#, Ren B\#. A new class of temporarily phenotypic enhancers identified by CRISPR/Cas9-mediated genetic screening. **_Genome Res_**. 2016 Mar;26(3):397–405. PMCID: PMC4772021
+        **14.** Diao Y\*, Li B, Meng Z, Jung I, Lee AY, Dixon J, Maliskova L, Guan KL, Shen Y\*,\#, Ren B\#. A new class of temporarily phenotypic enhancers identified by CRISPR/Cas9-mediated genetic screening. **_Genome Res_**. 2016 Mar;26(3):397–405. PMCID: PMC4772021
         
-        **14.** Diao Y, Guo X, Jiang L, Wang G, Zhang C, Wan J, Jin Y, Wu Z. miR-203, a tumor suppressor frequently down-regulated by promoter hypermethylation in rhabdomyosarcoma. **_J Biol Chem_**. 2014 Jan 3;289(1):529–539. PMCID: PMC3879574
+        **15.** Diao Y, Guo X, Jiang L, Wang G, Zhang C, Wan J, Jin Y, Wu Z. miR-203, a tumor suppressor frequently down-regulated by promoter hypermethylation in rhabdomyosarcoma. **_J Biol Chem_**. 2014 Jan 3;289(1):529–539. PMCID: PMC3879574
         
-        **15.** Diao Y, Guo X, Li Y, Sun K, Lu L, Jiang L, Fu X, Zhu H, Sun H, Wang H, Wu Z. Pax3/7BP is a Pax7- and Pax3-binding protein that regulates the proliferation of muscle precursor cells by an epigenetic mechanism. **_Cell Stem Cell_**. 2012 Aug 3;11(2):231–241. PMID: 22862948
+        **16.** Diao Y, Guo X, Li Y, Sun K, Lu L, Jiang L, Fu X, Zhu H, Sun H, Wang H, Wu Z. Pax3/7BP is a Pax7- and Pax3-binding protein that regulates the proliferation of muscle precursor cells by an epigenetic mechanism. **_Cell Stem Cell_**. 2012 Aug 3;11(2):231–241. PMID: 22862948
         
-        **16.** Diao Y, Liu W, Wong CCL, Wang X, Lee K, Cheung PY, Pan L, Xu T, Han J, Yates JR 3rd, Zhang M, Wu Z. Oxidation-induced intramolecular disulfide bond inactivates mitogen-activated protein kinase kinase 6 by inhibiting ATP binding. **_Proc Natl Acad Sci U S A_**. 2010 Dec 7;107(49):20974–20979. PMCID: PMC3000308
+        **17.** Diao Y, Liu W, Wong CCL, Wang X, Lee K, Cheung PY, Pan L, Xu T, Han J, Yates JR 3rd, Zhang M, Wu Z. Oxidation-induced intramolecular disulfide bond inactivates mitogen-activated protein kinase kinase 6 by inhibiting ATP binding. **_Proc Natl Acad Sci U S A_**. 2010 Dec 7;107(49):20974–20979. PMCID: PMC3000308
         
-        **17.** Diao Y, Wang X, Wu Z. SOCS1, SOCS3, and PIAS1 promote myogenic differentiation by inhibiting the leukemia inhibitory factor-induced JAK1/STAT1/STAT3 pathway. **_Mol Cell Biol_**. 2009 Sep;29(18):5084–5093. PMCID: PMC2738280
+        **18.** Diao Y, Wang X, Wu Z. SOCS1, SOCS3, and PIAS1 promote myogenic differentiation by inhibiting the leukemia inhibitory factor-induced JAK1/STAT1/STAT3 pathway. **_Mol Cell Biol_**. 2009 Sep;29(18):5084–5093. PMCID: PMC2738280
         
         ## **II. Collaborative papers between the Diao lab and other labs since 2019:**
         
