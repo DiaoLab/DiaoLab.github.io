@@ -31,7 +31,7 @@ sections:
         
         **9.** Li B, Chen PB, Diao Y. CRISPR-SE: a brute force search engine for CRISPR design. **_NAR Genom Bioinform_**. 2021 Mar;3(1):lqab013. PMCID: PMC7902234
         
-        **10.** Chen X, Wan J, Yu B, Diao Y\#, Zhang W\#. PIP5K1α promotes myogenic differentiation via AKT activation and calcium release. **_Stem Cell Res Ther. 2018;9(1):33. PMCID: PMC5806439
+        **10.** Chen X, Wan J, Yu B, Diao Y\#, Zhang W\#. PIP5K1α promotes myogenic differentiation via AKT activation and calcium release. **_Stem Cell Res Ther_**. 2018;9(1):33. PMCID: PMC5806439
         
         **11.** Jung I\*, Schmitt A\*, Diao Y\*, Lee AJ, Liu T, Yang D, Tan C, Eom J, Chan M, Chee S, Chiang Z, Kim C, Masliah E, Barr CL, Li B, Kuan S, Kim D, Ren B. A compendium of promoter-centered long-range chromatin interactions in the human genome. **_Nature Genet_**. 2019 Oct;51(10):1442–1449. PMCID: PMC6778519
         
