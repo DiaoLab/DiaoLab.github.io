@@ -13,7 +13,7 @@ sections:
         
         ## **I. Peer-reviewed publication as key contributor:**
 
-        **1.** Wei X\*, Xu Y\*, Yang D\*, Kim K, Yi L, Luo W, Lin X, Xiang Y, Williams AB, Wang X, Srivas S, Tan C, Zhang K, Li W, Li YE, Yue F, Huang J, Jung I\#, Diao Y\#. Ultra-high throughput tri-modal single-cell profiling of transcriptome, epigenome, and 3D genome in complex tissues with scHiCAR. Accepted by **_Nature Biotechnology_**
+        **1.** Wei X\*, Xu Y\*, Yang D\*, Kim K, Yi L, Luo W, Lin X, Xiang Y, Williams AB, Wang X, Srivas S, Tan C, Zhang K, Li W, Li YE, Yue F, Huang J, Jung I\#, Diao Y\#. Ultra-high throughput tri-modal single-cell profiling of transcriptome, epigenome, and 3D genome in complex tissues with scHiCAR. **Accepted by _Nature Biotechnology_**
         
         **2.** Sun T, Xu Y, Angel N, Meng Z, Varghese S, Diao Y. A Subset of Transposable Elements as Mechano-Response Enhancer Elements in Controlling Human Embryonic Stem Cell Fate. **_Nature Cell Biology_**. 2025 Oct;27(10):1785-1796
         
