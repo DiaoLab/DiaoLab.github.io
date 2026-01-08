@@ -19,15 +19,15 @@ sections:
         
         **3.** Dai Q, Wan C, Xu Y, Fei K, Olivere LA, Garrett B, Akers L, Peters D, Otto J, Kontos CD, Ji Z, Diao Y\#, Southerland KW\#. Vascular adhesion molecule 1+ fibro-adipogenic progenitors mark fatty infiltration in chronic limb-threatening ischemia. **_JVS-Vascular Science_**. 2025 Aug 05
         
-        **4.** Southerland KW, Xu Y, Peters DT, Lin X, Wei X, Xiang Y, Fei K, Olivere LA, Morowitz JM, Otto J, Dai Q, Kontos CD, Diao Y. Skeletal muscle regeneration failure in ischemic-damaged limbs is associated with pro-inflammatory macrophages and premature differentiation of satellite cells. **_Genome Med_**. 2023 Nov 10;15(1):95. PMCID: PMC10636829
+        **4.** Southerland KW\*, Xu Y\*, Peters DT\*, Lin X, Wei X, Xiang Y, Fei K, Olivere LA, Morowitz JM, Otto J, Dai Q, Kontos CD, Diao Y. Skeletal muscle regeneration failure in ischemic-damaged limbs is associated with pro-inflammatory macrophages and premature differentiation of satellite cells. **_Genome Med_**. 2023 Nov 10;15(1):95. PMCID: PMC10636829
         
-        **5.** Wei X, Tran D, Diao Y. HiCAR: Analysis of Open Chromatin Associated Long-range Chromatin Interaction Using Low-Input Materials. **_Curr Protoc_**. 2023 Oct;3(10):e899. PMCID: PMC10575683
+        **5.** Wei X\*, Tran D\*, Diao Y. HiCAR: Analysis of Open Chromatin Associated Long-range Chromatin Interaction Using Low-Input Materials. **_Curr Protoc_**. 2023 Oct;3(10):e899. PMCID: PMC10575683
         
-        **6.** Okafor AE, Lin X, Situ C, Wei X, Xiang Y, Wei X, Wu Z, Diao Y. Single-cell chromatin accessibility profiling reveals a self-renewing muscle satellite cell state. **_J Cell Biol_**. 2023 Aug 7;222(8). PMCID: PMC10309185. 
+        **6.** Okafor AE\*, Lin X\*, Situ C, Wei X, Xiang Y, Wei X, Wu Z, Diao Y. Single-cell chromatin accessibility profiling reveals a self-renewing muscle satellite cell state. **_J Cell Biol_**. 2023 Aug 7;222(8). PMCID: PMC10309185. 
         
         **7.** Sun T, Xu Y, Xiang Y, Ou J, Soderblom EJ, Diao Y. Crosstalk between RNA m6A and DNA methylation regulates transposable element chromatin activation and cell fate in human pluripotent stem cells. **_Nature Genetics_**. 2023 Aug;55(8):1324–1335. PMCID: PMC10766344. **_Spotlight by Molecular Cell_** (PMID: 39983671)
         
-        **8.** Wei X, Xiang Y, Peters DT, Marius C, Sun T, Shan R, Ou J, Lin X, Yue F, Li W, Southerland KW, Diao Y. HiCAR is a robust and sensitive method to analyze open-chromatin-associated genome organization. **_Molecular Cell_**. 2022 Mar 17;82(6):1225–1238.e6. PMCID: PMC8934281. **"_Best of Technology_ 2022" by _Molecular Cell_**, **Preview by _Cell Genomics_** (PMID: 36776526)
+        **8.** Wei X\*, Xiang Y\*, Peters DT, Marius C, Sun T, Shan R, Ou J, Lin X, Yue F, Li W, Southerland KW, Diao Y. HiCAR is a robust and sensitive method to analyze open-chromatin-associated genome organization. **_Molecular Cell_**. 2022 Mar 17;82(6):1225–1238.e6. PMCID: PMC8934281. **"_Best of Technology_ 2022" by _Molecular Cell_**, **Preview by _Cell Genomics_** (PMID: 36776526)
         
         **9.** Li B, Chen PB, Diao Y. CRISPR-SE: a brute force search engine for CRISPR design. **_NAR Genom Bioinform_**. 2021 Mar;3(1):lqab013. PMCID: PMC7902234
         
