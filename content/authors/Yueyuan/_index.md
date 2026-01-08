@@ -54,7 +54,7 @@ social:
     link: https://scholar.google.com/citations?user=YvAVIoAAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/monnneee
+    link: https://github.com/monnneee/scHiCAR
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
