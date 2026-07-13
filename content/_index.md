@@ -89,7 +89,7 @@ sections:
       title: <h1 style="text-align:center;">Join Our Team </h1>
       text: |
         
-        We are always looking for motivated and curious researchers at all stages (undergraduate and PhD students, postdoctoral fellows) to join our team. please email Dr Diao (Yarui.diao@duke.edu) with your CV/resume and a brief description of your research interests.
+        We are always looking for motivated and curious researchers at all stages (undergraduate and PhD students, postdoctoral fellows) to join our team. Please email Dr Diao (Yarui.diao@duke.edu) with your CV/resume and a brief description of your research interests.
 
   - block: markdown
     content:
