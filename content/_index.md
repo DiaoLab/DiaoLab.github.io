@@ -65,24 +65,24 @@ sections:
         
         As a team of cell biologists and genomic scientists, we integrate comprehensive molecular, cellular, genomic, and genetic approaches with patient biopsies, organoids, and genetically engineered mouse models. By combining both experimental and computational methods, we aim not only to make fundamental discoveries but also to foster a rigorous and supportive training environment for the next generation of scientists. Our former technicians and undergraduate trainees have entered top graduate and medical schools; our PhD students have received prestigous research awards and advanced to postdoctoral positions at leading U.S. institutions; and our postdoctoral fellows have secured tenure-track faculty appointments or established successful careers in industry.
 
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: compact
-      columns: '1'
+  #- block: collection
+  #  content:
+  #    title: Latest News
+  #    subtitle:
+  #    text:
+  #    count: 5
+  #    filters:
+  #      author: ''
+  #      category: ''
+  #      exclude_featured: false
+  #      publication_type: ''
+  #      tag: ''
+  #    offset: 0
+  #    order: desc
+  #    page_type: post
+  #  design:
+  #    view: compact
+  #    columns: '1'
 
   - block: markdown
     content:
