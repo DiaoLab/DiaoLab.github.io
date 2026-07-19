@@ -41,7 +41,7 @@ sections:
 
   - block: people
     content:
-      title: Team
+      title: Lab Member
       user_groups:
         - Lab Member
       sort_by: weight
