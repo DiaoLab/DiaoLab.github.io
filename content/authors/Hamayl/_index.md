@@ -17,11 +17,11 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Postdoctoral Associate
 
 # Organizations/Affiliations
 organizations:
-  - name: CMB Program at Duke
+  - name: Duke Department of Cell Biology
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -75,4 +75,6 @@ email: ''
 user_groups:
   - Lab Member
 ---
-
+<div style="text-align: justify; line-height: 1.6; font-size: 1.1rem;">
+Hamayl joined our lab in March 2023 and earned her Ph.D. in June 2026, successfully defending her dissertation entitled "Immune Regulation and Immunotherapy in Duchenne Muscular Dystrophy." During her doctoral training, she led research on immune regulation of muscle regeneration and therapeutic strategies for skeletal muscle fibrosis in muscle-wasting diseases. Her work also resulted in a pending patent application for therapies targeting skeletal muscle fibrosis.
+</div>
