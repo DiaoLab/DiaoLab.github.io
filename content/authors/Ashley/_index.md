@@ -76,5 +76,9 @@ user_groups:
   - Lab Member
 ---
 <div style="text-align: justify; line-height: 1.6; font-size: 1.1rem;">
+
+
+
+
 Ashley is a MSTP student co-mentored between the Diao lab (primary) and Karra lab (secondary). Ashley received training of using scHiCAR technology and bioinformatics skills to dissect the gene regulatory mechanisms underlying human cardiac muscle proliferation and maturation. She has passed her prelim exam and is currently supported by AHA pre-doctoral fellowship.
 </div>
