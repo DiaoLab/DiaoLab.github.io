@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hamayl Afzal
+title: Hamayl Afzal, Ph.D
 
 # Display order
 weight: 4
