@@ -31,7 +31,7 @@ sections:
       subtitle:
       text: |
         | Name | Position | Time in the Lab | Current Position |
-        |---|---|---|
+        |---|---|---|---|
         | Yu Xiang | Postdoctoral Associate | 2018-2022| Bioinformatics Scientist, San Diego, CA |
         | Tongyu Sun | Postdoctoral Associate | 2019-2024 | Assistant Professor, Nanjing University, China |
         | Xin Lin | Postdoctoral Associate | 2019-2025 | Senior Scientist, Simcere of America, MA|
