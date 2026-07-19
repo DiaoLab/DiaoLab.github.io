@@ -1,1 +1,1 @@
-删掉该目录下的admin文件夹，就不会在News中出现admin的落款了，之前admin/index.md是Yarui的信息
+Delete the admin folder in this directory, and the "admin" attribution will no longer show up in the News section. The admin/index.md file previously contained admin's information.
