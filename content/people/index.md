@@ -1,11 +1,11 @@
 ---
-title: Team
+title: People
 date: 2022-10-24
 
 type: landing
 
 sections:
-  - block: team
+  - block: people
     content:
       title: #Current Lab members
       # Choose which groups/teams of users to display.
