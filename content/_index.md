@@ -39,7 +39,7 @@ sections:
           }, 3000);
         </script>
 
-  - block: people
+  - block: team
     content:
       title: Lab Member
       user_groups:
