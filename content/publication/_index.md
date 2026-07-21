@@ -9,7 +9,7 @@ sections:
     content:
       title: <h1 style="font-size:2.5em; font-weight:bold;">Selected Publications</h1>
       text: |
-        Complete List of 48 Publication: https://www.ncbi.nlm.nih.gov/myncbi/yarui.diao.1/bibliography/public/
+        Complete List of Publication: https://www.ncbi.nlm.nih.gov/myncbi/yarui.diao.1/bibliography/public/
         
         ## **I. Peer-reviewed publication as key contributor:**
 
