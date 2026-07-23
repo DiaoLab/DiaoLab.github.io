@@ -32,7 +32,7 @@ sections:
       text: |
         | Name | Position | Time | Current Position |
         |---|---|---|---|
-        | Yu Xiang | Postdoctoral&nbsp;Associate | 2018-2022| Lead Bioinformatician, Natera, CA |
+        | Yu Xiang | Postdoctoral&nbsp;Associate | 2018-2022| Lead Bioinformatician, Natera Inc., CA |
         | Tongyu Sun | Postdoctoral&nbsp;Associate | 2019-2024 | Assistant Professor, Nanjing University, China |
         | Xin Lin | Postdoctoral&nbsp;Associate | 2019-2025 | Senior Scientist, Simcere of America, MA|
         |	Derek&nbsp;Peters | Postdoctoral&nbsp;Associate | 2020-2024 | Biomedical Scientist, Durham, NC |
