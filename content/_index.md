@@ -99,7 +99,7 @@ sections:
         {{% cta cta_link="./papers/" cta_text="Publications →" %}}
     design:
       columns: '1'
-
+  
   - block: markdown
     content:
       text: |
