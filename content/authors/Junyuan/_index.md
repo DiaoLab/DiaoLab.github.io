@@ -3,7 +3,7 @@
 title: Junyuan Wang
 
 # Display order
-weight: 6
+weight: 7
 
 # Full name (for SEO)
 first_name: Junyuan
