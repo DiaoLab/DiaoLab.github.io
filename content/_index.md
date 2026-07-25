@@ -113,10 +113,10 @@ sections:
       email: diaolab@duke.edu
       #phone: 919-684-8553
       address:
-      street: 403 Sands Building
-      city: Durham
-      region: NC
-      postcode: '27710'
+        street: 403 Sands Building
+        city: Durham
+        region: NC
+        postcode: '27710'
       country: United States
       country_code: US
     
