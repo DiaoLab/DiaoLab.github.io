@@ -103,24 +103,20 @@ sections:
   - block: markdown
     content:
       text: |
-      <div style="display:flex;align-items:center;gap:50px;">
-
-      <img src="/media/Duke_logo.png"
-           style="width:260px;height:auto;">
-
-      <div>
-
-      📧 <a href="mailto:diaolab@duke.edu">diaolab@duke.edu</a>
-
-      <br><br>
-      
-      #phone: 919-684-8553
-
-      <br><br>
-      
-      📍 403 Sands Building, Durham, NC 27710
-
-      </div>
-
-      </div>
+        <div style="display:flex;align-items:center;gap:50px;">
+  
+        <img src="/media/Duke_logo.png"
+             style="width:260px;height:auto;">
+  
+        <div>
+  
+        📧 <a href="mailto:diaolab@duke.edu">diaolab@duke.edu</a>
+  
+        <br><br>
+  
+        📍 403 Sands Building, Durham, NC 27710
+  
+        </div>
+  
+        </div>
 ---
