@@ -24,6 +24,14 @@ role: Undergraduate Student
 #  - name: 
 #    url: ''
 
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'waiyuk.lin@duke.edu'
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ''
+
 user_groups:
   - Lab Member
 ---
