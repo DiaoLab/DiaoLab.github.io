@@ -24,6 +24,14 @@ role: Undergraduate Student
 #  - name: Duke Kunshan University–Duke University Dual Degree Program
 #    url: ''
 
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'junyuan.wang2@dukekunshan.edu.cn'
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ''
+
 user_groups:
   - Lab Member
 ---
