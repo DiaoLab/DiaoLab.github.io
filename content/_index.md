@@ -100,23 +100,23 @@ sections:
     design:
       columns: '1'
 
-- block: markdown
-  content:
-    text: |
-      <div style="text-align:center;">
-      <img src="/media/Duke_logo.png" style="width:280px;">
-      </div>
-
-  - block: contact
+  - block: markdown
     content:
-      title: 
-      email: diaolab@duke.edu
-      #phone: 919-684-8553
-      address:
-        street: 403 Sands Building
-        city: Durham
-        region: NC
-        postcode: '27710'
-        country: United States
-        country_code: US
+      text: |
+        <div style="text-align:center;">
+        <img src="/media/Duke_logo.png" style="width:280px;">
+        </div>
+  
+    - block: contact
+      content:
+        title: 
+        email: diaolab@duke.edu
+        #phone: 919-684-8553
+        address:
+          street: 403 Sands Building
+          city: Durham
+          region: NC
+          postcode: '27710'
+          country: United States
+          country_code: US
 ---
