@@ -100,13 +100,6 @@ sections:
     design:
       columns: '1'
 
-  - block: markdown
-    content:
-      text: |
-        <div style="text-align:center;">
-        <img src="/media/Duke_logo.png" style="width:280px;">
-        </div>
-
   - block: contact
     content:
       title:
