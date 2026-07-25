@@ -28,5 +28,7 @@ user_groups:
   - Lab Member
 ---
 <div style="text-align: justify; line-height: 1.6; font-size: 1.1rem;">
+<br>
+<br>
 Vanessa is an undergraduate student pursuing a B.S. in Biology with minors in Chemistry and Economics at Duke. She joined the Diao lab in July 2026 as an undergraduate research assistant, where she has been developing bioinformatics skills in single-nucleus ATAC-seq (snATAC-seq) analysis using ArchR to investigate chromatin accessibility dynamics during muscle regeneration.
 </div>
