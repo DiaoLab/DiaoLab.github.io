@@ -110,13 +110,9 @@ sections:
   
         <div>
   
-        📧 <a href="mailto:diaolab@duke.edu">diaolab@duke.edu</a>
-  
-        <br><br>
+         <a href="mailto:diaolab@duke.edu">diaolab@duke.edu</a>
   
         📍 403 Sands Building, Durham, NC 27710
-  
-        </div>
   
         </div>
 ---
