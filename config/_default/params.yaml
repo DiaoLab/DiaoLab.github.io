@@ -17,7 +17,7 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
+    org_name: 'Diao Lab'
     description: 'The Diao Lab at Duke University studies genomics, epigenetics, stem cell biology, and tissue regeneration.'
     twitter: ''
   analytics:
