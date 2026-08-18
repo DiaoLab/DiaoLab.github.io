@@ -27,7 +27,7 @@ role: Undergraduate Student
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'junyuan.wang2@dukekunshan.edu.cn'
+    link: 'mailto:junyuan.wang2@dukekunshan.edu.cn'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
