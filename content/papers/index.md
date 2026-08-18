@@ -13,7 +13,7 @@ sections:
         
         ## **I. Peer-reviewed publication as key contributor:**
 
-        **1.** Xu Y, Wei X\#. Single-cell trimodal profiling with scHiCAR. **_Nature Reviews Genetics_**. 2026 May 20
+        **1.** Xu Y, Wei X\#. Single-cell trimodal profiling with scHiCAR. **_Nature Reviews Genetics_** 27, 663–664 (2026).
 
         **2.** Wei X\*, Xu Y\*, Yang D\*, Kim K, Yi L, Luo W, Lin X, Xiang Y, Williams AB, Wang X, Srivas S, Tan C, Zhang K, Li W, Li YE, Yue F, Huang J, Jung I\#, Diao Y\#. Trimodal single-cell profiling of transcriptome, epigenome and 3D genome in complex tissues with scHiCAR. **_Nature Biotechnology_**. 2026 Feb 19.
         
