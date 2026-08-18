@@ -27,7 +27,7 @@ role: Undergraduate Student
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'cindy.osorioalfaro@duke.edu'
+    link: 'mailto:cindy.osorioalfaro@duke.edu'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
