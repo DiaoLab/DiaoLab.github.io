@@ -38,5 +38,5 @@ user_groups:
 <div style="text-align: justify; line-height: 1.6; font-size: 1.1rem;">
 <br>
 <br>
-Cindy is an undergraduate student at Duke University pursuing a B.S. in Neuroscience with minors in Chemistry and Spanish. As an undergraduate lab technician, Cindy will be supporting ongoing research in the lab while gaining experience in laboratory techniques. She hopes to continue developing her research skills while exploring the intersection of scientific discovery and translational research.
+Cindy is an undergraduate student at Duke University pursuing a B.S. in Neuroscience with minors in Chemistry and Spanish. As an undergraduate research assistant, Cindy will be supporting ongoing research in the lab while gaining experience in laboratory techniques. She hopes to continue developing her research skills while exploring the intersection of scientific discovery and translational research.
 </div>
