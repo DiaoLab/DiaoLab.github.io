@@ -57,7 +57,7 @@ sections:
       title: <h1 style="text-align:center;">Research</h1>
       text: |
         
-        <img src="media/logo.png" alt="Research" style="float:right; margin: 0 0 15px 20px; width:40%; border-radius:12px; opacity:0.85;">
+        <img src="media/logo.jpg" alt="Research" style="float:right; margin: 0 0 15px 20px; width:40%; border-radius:12px; opacity:0.85;">
         
         Our research program, **'Regeneration Genomics'**, is dedicated to unraveling the gene regulatory mechanisms that drive cell fate changes in development and regeneration. In our quest to decode the fundamental principles of gene regulation, I have been developing several cutting-edge genomic tools, such as **CREST-seq**, **CARGO-BioID**, **HiCAR**, and **scHiCAR** that benefit both our own research and the broader scientific community.
         
