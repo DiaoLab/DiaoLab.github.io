@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        <h1 style="text-align:center;">👋Welcome to the Laboratory of Regeneration Genomics</h1>
+        <h1 style="text-align:center;">Welcome to the Laboratory of Regeneration Genomics</h1>
   - block: markdown
     content:
       text: |
