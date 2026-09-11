@@ -15,7 +15,7 @@ sections:
 
         **1.** Hamayl Afzal, Tomer Rotstein, Debolina D Biswas, Alastair Khodabukus, Wenzhe Luo, Yueyuan Xu, Emma C. Frair, Jingjuan Chen, Shihuan Kuang, Kevin M. Flanigan, Nenad Bursac, Mai K. ElMallah, Charles A. Gersbach, Yarui Diao. CAR-T therapy targeting the regenerative stem cell niche improves skeletal muscle function in Duchenne muscular dystrophy. **_Cell Stem Cell (accepted for publication)_**.
 
-        **2.** Xu Y, Wei X\#. Single-cell trimodal profiling with scHiCAR. **_Nature Reviews Genetics_**. 2026 May 20.
+        **2.** Xu Y, Wei X. Single-cell trimodal profiling with scHiCAR. **_Nature Reviews Genetics_**. 2026 May 20.
 
         **3.** Wei X\*, Xu Y\*, Yang D\*, Kim K, Yi L, Luo W, Lin X, Xiang Y, Williams AB, Wang X, Srivas S, Tan C, Zhang K, Li W, Li YE, Yue F, Huang J, Jung I\#, Diao Y\#. Trimodal single-cell profiling of transcriptome, epigenome and 3D genome in complex tissues with scHiCAR. **_Nature Biotechnology_**. 2026 Feb 19.
         
