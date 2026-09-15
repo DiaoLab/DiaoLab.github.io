@@ -11,7 +11,7 @@ sections:
       text: |
         Complete List of Publication: https://www.ncbi.nlm.nih.gov/myncbi/yarui.diao.1/bibliography/public/
         
-        ## **I. Peer-reviewed publication as key contributor:**
+        ## **I. Publications led by us:**
 
         **1.** Hamayl Afzal, Tomer Rotstein, Debolina D Biswas, Alastair Khodabukus, Wenzhe Luo, Yueyuan Xu, Emma C. Frair, Yongwu Li, Jingjuan Chen, Shihuan Kuang, Kevin M. Flanigan, Nenad Bursac, Mai K. ElMallah, Charles A. Gersbach, Yarui Diao. CAR-T therapy targeting the regenerative stem cell niche improves skeletal muscle function in Duchenne muscular dystrophy. **_Cell Stem Cell (accepted for publication)_**.
 
@@ -53,7 +53,7 @@ sections:
         
         **20.** Diao Y, Wang X, Wu Z. SOCS1, SOCS3, and PIAS1 promote myogenic differentiation by inhibiting the leukemia inhibitory factor-induced JAK1/STAT1/STAT3 pathway. **_Mol Cell Biol_**. 2009 Sep;29(18):5084–5093. PMCID: PMC2738280
         
-        ## **II. Collaborative papers between the Diao lab and other labs since 2019:**
+        ## **II. Selected publications to which we contributed as collaborators (2019——present):**
         **1.** Wang P, Wang J, Wang Q, Youngblood MW, Cheng Y, Tao B, Wong JH-Y, Luan Y, Yu S, Swaroop A, Nandoliya KR, Najem H, Fu Y, McCortney K, Zhang D, Diao Y, Heimberger AB, Sonabend AM, Horbinski CM, Fan R, Yue F. Spatial chromatin architecture and accessibility co-profiling of mammalian tissues. **_Nat Methods_**. 2026 Sep 1.
         
         **2.** Park S, Park H, Byun YG, Wei X, Eom J, Joo J, Lee AJ, Diao Y, Chung WS, Jung I. NR3C1-mediated epigenetic regulation suppresses astrocytic immune responses in mice. **_Nat Commun_**. 2025 Sep 22;16(1):8330. PMCID: PMC12454645
