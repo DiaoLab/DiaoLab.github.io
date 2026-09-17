@@ -61,7 +61,7 @@ sections:
 
         Our research program, **Regeneration Genomics**, seeks to develop and deploy innovative genomics approaches to understand how cells integrate regulatory information from **inside and outside the cell** to control cell fate during development and regeneration, and how disruption of these processes contributes to aging and degenerative disease.
 
-        <img src="media/research_figure.jpg" alt="Research">
+        <img src="media/research.jpg" alt="Research">
     
         We approach these questions from two complementary directions. **Inside the cell**, we study how the regulatory genome, including enhancers, transposable elements, chromatin-associated proteins, epigenetic modifications, and three-dimensional genome organization, controls gene expression and cell-fate transitions. **Outside the cell**, we investigate how the tissue microenvironment, including immune cells, mesenchymal stromal cells, extracellular signals, and mechanical cues, controls embryonic and muscle stem-cell behavior. Together, these studies form **our “IN-N-OUT” view of regeneration biology and medicine**. Moreover, we have been developing cutting-edge **genomics technologies** that advance both our own research and the broader scientific community.
 
