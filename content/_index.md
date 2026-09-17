@@ -57,7 +57,7 @@ sections:
       title: <h1 style="text-align:center;">Research</h1>
       text: |
         
-        <img src="media/research1.jpg" alt="Research" style="float:right; margin: 0 0 15px 20px; width:40%; border-radius:12px; opacity:0.85;">
+        <img src="media/research1.jpg" alt="Research" style="display:block; width:75%; margin:0 auto 35px auto; border-radius:12px;">
         
         Our research program, **Regeneration Genomics**, seeks to develop and deploy innovative genomics approaches to understand how cells integrate regulatory information from **inside and outside the cell** to control cell fate during development and regeneration, and how disruption of these processes contributes to aging and degenerative disease.
 
