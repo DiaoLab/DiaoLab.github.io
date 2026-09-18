@@ -20,3 +20,5 @@ The Diao lab was established in Sep 2018 at Duke Cell Biology. Over the past fiv
 As a team of cell biologists and genomic scientists, we integrate molecular, cellular, genomic, genetic, and computational approaches with patient biopsies, organoids, and genetically engineered mouse models. Our goal is not only to make fundamental discoveries about gene regulation and regenerative biology, but also to translate these insights into innovative therapeutic strategies. Equally important, we are committed to providing a rigorous and supportive training environment for the next generation of scientists, including undergraduate students, graduate students, and postdoctoral fellows.
 
 </div>
+
+---
