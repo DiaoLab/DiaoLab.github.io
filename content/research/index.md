@@ -1,5 +1,4 @@
 ---
-title: #Example Event
 
 <div style="text-align: justify;">
 
