@@ -80,15 +80,6 @@ sections:
     
         **We welcome rotation students interested in genomics, epigenetics, stem cells, and tissue regeneration.**
 
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./papers/" cta_text="Publications →" %}}
-    design:
-      columns: '1'
-
   - block: contact
     content:
       title:
