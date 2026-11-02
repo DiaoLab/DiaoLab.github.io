@@ -13,7 +13,7 @@ sections:
         
         ## **I. Publications led by us:**
 
-        **1.** Hamayl Afzal, Tomer Rotstein, Debolina D Biswas, Alastair Khodabukus, Wenzhe Luo, Yueyuan Xu, Emma C. Frair, Yongwu Li, Jingjuan Chen, Shihuan Kuang, Kevin M. Flanigan, Nenad Bursac, Mai K. ElMallah, Charles A. Gersbach, Yarui Diao. Niche-reprogramming CAR-T therapy improves skeletal muscle regeneration and function in preclinical murine models of Duchenne muscular dystrophy. **_Cell Stem Cell (accepted for publication)_**.
+        **1.** Afzal H, Rotstein T, Biswas DD, Lin X, Khodabukus A, Luo W, Xu Y, Frair EC, Li Y, Chen J, Kuang S, Flanigan KM, Bursac N, ElMallah MK, Gersbach CA, Diao Y. Niche-reprogramming CAR T therapy improves skeletal muscle regeneration and function in preclinical murine models of Duchenne muscular dystrophy. **_Cell Stem Cell_**. 2026 Oct 29.
 
         **2.** Xu Y, Wei X. Single-cell trimodal profiling with scHiCAR. **_Nature Reviews Genetics_**. 2026 May 20.
 
