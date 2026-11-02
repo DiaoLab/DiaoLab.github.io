@@ -13,15 +13,15 @@ sections:
         
         ## **I. Publications led by us:**
 
-        **1.** Afzal H, Rotstein T, Biswas DD, Lin X, Khodabukus A, Luo W, Xu Y, Frair EC, Li Y, Chen J, Kuang S, Flanigan KM, Bursac N, ElMallah MK, Gersbach CA, Diao Y. Niche-reprogramming CAR T therapy improves skeletal muscle regeneration and function in preclinical murine models of Duchenne muscular dystrophy. **_Cell Stem Cell_**. 2026 Oct 29.
+         **1.** Afzal H, Rotstein T, Biswas DD, Lin X, Khodabukus A, Luo W, Xu Y, Frair EC, Li Y, Chen J, Kuang S, Flanigan KM, Bursac N, ElMallah MK, Gersbach CA, Diao Y. Niche-reprogramming CAR T therapy improves skeletal muscle regeneration and function in preclinical murine models of Duchenne muscular dystrophy. **_Cell Stem Cell_**. 2026 Oct 29:S1934-5909(26)00385-1. PMID: 42956744
 
-        **2.** Xu Y, Wei X. Single-cell trimodal profiling with scHiCAR. **_Nature Reviews Genetics_**. 2026 May 20.
+        **2.** Xu Y, Wei X. Single-cell trimodal profiling with scHiCAR. **_Nature Reviews Genetics_**. 2026 May 20;27(9):663-664. PMID: 42162321
 
-        **3.** Wei X\*, Xu Y\*, Yang D\*, Kim K, Yi L, Luo W, Lin X, Xiang Y, Williams AB, Wang X, Srivas S, Tan C, Zhang K, Li W, Li YE, Yue F, Huang J, Jung I\#, Diao Y\#. Trimodal single-cell profiling of transcriptome, epigenome and 3D genome in complex tissues with scHiCAR. **_Nature Biotechnology_**. 2026 Feb 19.
+        **3.** Wei X\*, Xu Y\*, Yang D\*, Kim K, Yi L, Luo W, Lin X, Xiang Y, Williams AB, Wang X, Srivas S, Tan C, Zhang K, Li W, Li YE, Yue F, Huang J, Jung I\#, Diao Y\#. Trimodal single-cell profiling of transcriptome, epigenome and 3D genome in complex tissues with scHiCAR. **_Nature Biotechnology_**. 2026 Feb 19:10.1038/s41587-026-03013-7. PMID: 41714417. PMCID: PMC12995399
         
-        **4.** Sun T, Xu Y, Angel N, Meng Z, Varghese S, Diao Y. A Subset of Transposable Elements as Mechano-Response Enhancer Elements in Controlling Human Embryonic Stem Cell Fate. **_Nature Cell Biology_**. 2025 Oct;27(10):1785-1796
+        **4.** Sun T, Xu Y, Angel N, Meng Z, Varghese S, Diao Y. A Subset of Transposable Elements as Mechano-Response Enhancer Elements in Controlling Human Embryonic Stem Cell Fate. **_Nature Cell Biology_**. 2025 Oct;27(10):1785-1796. PMID: 40962935; PMCID: PMC12667560
         
-        **5.** Dai Q, Wan C, Xu Y, Fei K, Olivere LA, Garrett B, Akers L, Peters D, Otto J, Kontos CD, Ji Z, Diao Y\#, Southerland KW\#. Vascular adhesion molecule 1+ fibro-adipogenic progenitors mark fatty infiltration in chronic limb-threatening ischemia. **_JVS-Vascular Science_**. 2025 Aug 05
+        **5.** Dai Q, Wan C, Xu Y, Fei K, Olivere LA, Garrett B, Akers L, Peters D, Otto J, Kontos CD, Ji Z, Diao Y\#, Southerland KW\#. Vascular adhesion molecule 1+ fibro-adipogenic progenitors mark fatty infiltration in chronic limb-threatening ischemia. **_JVS-Vascular Science_**. 2025 Aug 6;6:100295. PMID: 40977753; PMCID: PMC12446680
         
         **6.** Southerland KW\*, Xu Y\*, Peters DT\*, Lin X, Wei X, Xiang Y, Fei K, Olivere LA, Morowitz JM, Otto J, Dai Q, Kontos CD, Diao Y. Skeletal muscle regeneration failure in ischemic-damaged limbs is associated with pro-inflammatory macrophages and premature differentiation of satellite cells. **_Genome Med_**. 2023 Nov 10;15(1):95. PMCID: PMC10636829
         
